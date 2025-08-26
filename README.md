@@ -22,8 +22,8 @@ This repository serves as a centralized design system containing high-quality vi
 ## 📞 Contact
 For design collaboration, feedback, or asset requests:
 
-- **Email**: mudigondapranay@gmail.com
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/pranay-mudigonda/)
+- **Email**: pranay0923@gmail.com
+- **LinkedIn**: [Connect with me]((https://www.linkedin.com/in/mudigondapranay/))
 
 ---
 
